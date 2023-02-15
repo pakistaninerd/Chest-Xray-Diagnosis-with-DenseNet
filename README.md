@@ -22,4 +22,5 @@ Following items have been performed within this directory:
 
 
 Research Paper Citation Link, from where the data was used: https://arxiv.org/abs/1705.02315
+
 45.7 GB CXR8 Dataset download link for Neural network training on GPU: https://nihcc.app.box.com/v/ChestXray-NIHCC/folder/36938765345
